@@ -1,0 +1,5 @@
+package com.devsuperior.integrations.resources.exceptions;
+
+public class ResourceExceptionHandler {
+
+}

@@ -1,0 +1,18 @@
+package com.devsuperior.integrations.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.devsuperior.integrations.dto.EmailDTO;
+import com.sendgrid.SendGrid;
+
+@Service
+public class EmailService {
+	
+	@Autowired
+	private SendGrid sendGrid;
+	
+	public void sendEmail(EmailDTO dto) {
+		
+	}
+}
