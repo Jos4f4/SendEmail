@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.sendgrid.helpers.mail.objects.Content"/>
+    <fullyQualifiedTypeName name="com.sendgrid.Request"/>
+    <fullyQualifiedTypeName name="com.sendgrid.Method"/>
+    <fullyQualifiedTypeName name="com.sendgrid.Response"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+</qualifiedTypeNameHistroy>
